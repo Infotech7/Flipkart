@@ -1,2 +1,3 @@
 Ch7ecking4 merg4e in local repo
 ch7ecking4 merg4e conflict
+ch7ecking4 branch7 merg4e conflict
